@@ -1,7 +1,5 @@
-// const heading  = React.createElement('div', {id:'heading'}, 
-//     React.createElement('h1', null, 'Hello World from Sanjeet kumar Sahu😊'),
-//     React.createElement('p', null, 'This is a simple paragraph written by Sanjeet kumar Sahu in React Js')
-// );
+import React from 'react';
+import ReactDOM from 'react-dom/client';
 
 
 const targetElement = React.createElement('div',{id:'parent'},
